@@ -2,8 +2,10 @@
 
 #### In total there are 4 story points in this story. For each of the story point, I attached the image below
 
-![Story1_Slide1](https://user-images.githubusercontent.com/45216572/66443262-3d859480-e9f3-11e9-9cf5-95cac9c26bc1.png)
-![Story1_Slide2](https://user-images.githubusercontent.com/45216572/66443264-3f4f5800-e9f3-11e9-965f-9ad3669ccd40.png)
-![Story1_Slide3](https://user-images.githubusercontent.com/45216572/66443267-41b1b200-e9f3-11e9-9e20-e391a56eedb6.png)
-![Story1_Slide4_1](https://user-images.githubusercontent.com/45216572/66443269-437b7580-e9f3-11e9-9888-6ee605960dcf.png)
+![Story1_Slide1](https://user-images.githubusercontent.com/45216572/66443867-ac63ed00-e9f5-11e9-9b14-7355ec111906.png)
 
+![Story1_Slide2](https://user-images.githubusercontent.com/45216572/66443870-ae2db080-e9f5-11e9-9713-4537b66f20de.png)
+
+![Story1_Slide3](https://user-images.githubusercontent.com/45216572/66443875-b128a100-e9f5-11e9-8787-7fbd89e11c7a.png)
+
+![Story1_Slide4](https://user-images.githubusercontent.com/45216572/66443878-b2f26480-e9f5-11e9-9ef0-e6efd93f3a74.png)
